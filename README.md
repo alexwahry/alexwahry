@@ -1,5 +1,5 @@
+# alexwahry
 <div>
-  <h1 align="left">alexwahry</h1>
   <p  align="center"> 
     > self-taught web (<i>backend</i>) programmer <br>
     > 1st year CS student <br>
