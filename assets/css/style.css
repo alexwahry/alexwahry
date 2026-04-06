@@ -1,7 +1,21 @@
-div h1,
-site-header hr,
-site-title,
-site-description
-{
-  display: none;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  background-color: #121212;
+  color: #e0e0e0;
+}
+a { /*links*/
+  color: #82aaff;
+}
+
+.monospace {
+  font-family: "JetBrains Mono", monospace;
+}
+
+
+.container {
+  max-width: 800px;
 }
